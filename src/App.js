@@ -1,4 +1,4 @@
-import Banner from './componentes/banner/banner';
+import Banner from "./componentes/Banner/Banner";
 
 function App() {
   return (
